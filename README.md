@@ -1,7 +1,11 @@
-# swc-example-justa
+ swc-example-justa
+<<<<<<< HEAD
 What a lovely day!
 
 Improved repositories can be found under [HeyLifeHD](https://github.com/HeyLifeHD/swc-example-hey)
+=======
+Improved repositories can be found under [HeyLifeHD](https://github.com/HeyLifeHD/swc-example-hey)!
+
 
 An example project for the Git lesson of EMBL Software Carpentry.
 
