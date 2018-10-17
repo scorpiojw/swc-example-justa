@@ -10,3 +10,4 @@ Quick Markdown Overview
 - create a new sublist with '--'
 -- element1
 -- element2
+- type `code` with backticks
