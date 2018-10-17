@@ -1,4 +1,6 @@
 # swc-example-justa
+Improved repositories can be found under [HeyLifeHD](https://github.com/HeyLifeHD/swc-example-hey)
+
 An example project for the Git lesson of EMBL Software Carpentry.
 
 Quick Markdown Overview
