@@ -6,7 +6,7 @@ Quick Markdown Overview
 - write bullet lists with '-'
 - create **bold text** with **
 - include [links](https:/embl.de) with [] and ()
-- include the ***italic text***
+- include the *italic* text with '*'
 - create a new sublist with '--'
 -- element1
 -- element2
